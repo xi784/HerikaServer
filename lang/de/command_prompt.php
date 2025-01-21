@@ -11,7 +11,7 @@ Verwende Tool-Aufrufe, wenn {$GLOBALS["PLAYER_NAME"]} einen Befehl erteilt.
 Führe nur Aktionen und Tool-Aufrufe aus, wenn dein Charakter es für notwendig hält oder unbedingt tun muss, selbst wenn es den Anfragen von {$GLOBALS["PLAYER_NAME"]} widerspricht.";
 */
 
-$COMMAND_PROMPT_ENFORCE_ACTIONS="Wähle eine kohärente AKTION, um {$GLOBALS["PLAYER_NAME"]} zu gehorchen.";
+$COMMAND_PROMPT_ENFORCE_ACTIONS="Wähle eine logische UND passende AKTION, um {$GLOBALS["PLAYER_NAME"]} zu gehorchen.";
 
 $DIALOGUE_TARGET="(Spricht mit {$GLOBALS["HERIKA_NAME"]})";
 $MEMORY_OFFERING="";
